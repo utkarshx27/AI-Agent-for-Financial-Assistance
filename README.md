@@ -10,9 +10,10 @@ Features:
 - Custom Queries: Ask personalized financial questions and receive detailed, AI-driven responses.
 
 
-Example:
-[images/adv1.png](https://github.com/utkarshx27/AI-Agent-for-Financial-Assistance/blob/main/images/adv1.png)
-[images/adv2.png](https://github.com/utkarshx27/AI-Agent-for-Financial-Assistance/blob/main/images/adv2.png) 
+## Example #1:
+<img src="https://raw.githubusercontent.com/utkarshx27/AI-Agent-for-Financial-Assistance/main/images/adv1.png" alt="Alt Text" width="600"/>
+<img src="https://raw.githubusercontent.com/utkarshx27/AI-Agent-for-Financial-Assistance/main/images/adv2.png" alt="Alt Text" width="600"/>
 
-
-
+## Example #2:
+<img src="https://raw.githubusercontent.com/utkarshx27/AI-Agent-for-Financial-Assistance/main/images/adv_qs_1.png" alt="Alt Text" width="600"/>
+<img src="https://raw.githubusercontent.com/utkarshx27/AI-Agent-for-Financial-Assistance/main/images/adv_qs_2.png" alt="Alt Text" width="600"/>
