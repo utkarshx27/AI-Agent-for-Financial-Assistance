@@ -11,7 +11,8 @@ Features:
 
 
 Example:
-images/adv1.png
+[images/adv1.png](https://github.com/utkarshx27/AI-Agent-for-Financial-Assistance/blob/main/images/adv1.png)
+[images/adv2.png](https://github.com/utkarshx27/AI-Agent-for-Financial-Assistance/blob/main/images/adv2.png) 
 
 
 
